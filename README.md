@@ -26,6 +26,10 @@ Beautifully designed & developed by **Kashish Dhanani © 2025**.
 ### 🖤 Dark Mode
 ![Dark Mode](screenshots/darkmode.png)
 
+### Live Demo!!!
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-pink)](https://kashish-238.github.io/Calculator/)
+
+
 ---
 
 ## 🛠️ Tech Stack
@@ -56,3 +60,4 @@ Copy code
 http://localhost:8000
 
 That's it — your calculator is live!
+
