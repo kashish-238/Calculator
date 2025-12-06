@@ -20,11 +20,11 @@ Beautifully designed & developed by **Kashish Dhanani © 2025**.
 
 ## 📸 Screenshots
 
-### 🌸 Light Mode  
-`/screenshots/lightmode.png`
+### 🌸 Light Mode
+![Light Mode](screenshots/lightmode.png)
 
-### 🖤 Dark Mode  
-`/screenshots/darkmode.png`
+### 🖤 Dark Mode
+![Dark Mode](screenshots/darkmode.png)
 
 ---
 
@@ -54,4 +54,5 @@ Open in your browser:
 arduino
 Copy code
 http://localhost:8000
+
 That's it — your calculator is live!
